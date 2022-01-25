@@ -1,0 +1,5 @@
+[user]
+	name = Mattèo Gauthier
+	email = matteo.gauthier@gmail.com
+[core]
+	editor = code --wait
